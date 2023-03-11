@@ -16,4 +16,12 @@
     width: 100%;
     background-position: center;
     background-size: cover;
-}   
+}  
+nav{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-left: 10%;
+    padding-right: 10%;
+    color: black;
+}
