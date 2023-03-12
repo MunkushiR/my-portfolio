@@ -120,3 +120,21 @@ h5{
     line-height: 27px;
     margin-bottom: 25px;
 }
+.card.button{
+    color: beige;
+    background-color: greenyellow;
+    text-decoration: none;
+    border: 2px solid transparent;
+    border-radius: 20px;
+    font-size: 20px;
+    font-weight: bold;
+    padding: 13px 30px 20px;
+    transition: 4ms;
+}
+.card.button:hover{
+    color: white;
+    background-color: rgb(255, 255, 255);
+    text-decoration: none;
+    cursor: pointer;
+    border; 3px solid gray;
+}
